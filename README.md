@@ -47,6 +47,7 @@ By providing a structured and reliable way to manage changes, version control en
 
 Step 1: Sign in to GitHub
 Ensure you have a GitHub account. If you don’t, sign up at GitHub's website.
+
 Step 2: Create a New Repository
 Once logged in, click on the "+" icon in the top right corner of the GitHub page and select "New repository."
 Step 3: Fill in Repository Details
